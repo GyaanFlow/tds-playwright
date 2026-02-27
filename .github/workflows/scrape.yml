@@ -25,5 +25,5 @@ jobs:
           npx playwright install chromium --with-deps
 
       # ✅ YOUR EMAIL MUST BE IN THIS STEP NAME
-      - name: Run scraper - 24f2005363%40ds.study.iitm.ac.in
+      - name: Run scraper - 24f2005363@ds.study.iitm.ac.in
         run: node scrape.js
